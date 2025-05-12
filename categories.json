@@ -1,0 +1,28 @@
+[
+  {
+    "id": "electronics",
+    "name": "Elektronik",
+    "description": "Temukan gadget elektronik terbaru dan terhebat, dari smartphone hingga perangkat rumah pintar."
+  },
+  {
+    "id": "fashion",
+    "name": "Fashion Terkini",
+    "description": "Tetap tampil modis dengan koleksi pakaian, aksesoris, dan alas kaki pilihan kami."
+  },
+  {
+    "id": "home_kitchen",
+    "name": "Rumah & Dapur",
+    "description": "Semua yang Anda butuhkan untuk membuat rumah Anda nyaman, dari peralatan dapur hingga dekorasi."
+  },
+  {
+    "id": "books_media",
+    "name": "Buku & Media",
+    "description": "Jelajahi dunia pengetahuan dan hiburan dengan pilihan buku, film, dan musik kami."
+  },
+  {
+    "id": "sports_outdoors",
+    "name": "Olahraga & Outdoor",
+    "description": "Peralatan dan perlengkapan untuk mendukung gaya hidup aktif dan petualangan Anda."
+  }
+]
+

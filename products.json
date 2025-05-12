@@ -1,0 +1,85 @@
+[
+  {
+    "id": "prod1",
+    "name": "SuperSound Wireless Headphones X2000",
+    "category_id": "electronics",
+    "image_placeholder": "placeholder_headphones.jpg",
+    "description": "Experience immersive audio with these comfortable wireless headphones. Features long battery life and active noise-cancellation.",
+    "rating": 4.5,
+    "pros": ["Excellent sound quality", "Comfortable for long wear", "Long-lasting battery", "Good noise cancellation"],
+    "cons": ["Can be a bit bulky for some users", "Premium price point", "Microphone quality could be better"],
+    "price": 199.00,
+    "original_price": 249.00,
+    "affiliate_link": "#",
+    "reviews": [
+        {"user": "AudioPhile_82", "comment": "Absolutely fantastic sound! Worth every penny.", "rating": 5},
+        {"user": "GadgetGirl", "comment": "Great for travel, the noise cancellation is a lifesaver.", "rating": 4},
+        {"user": "TechReviewer1", "comment": "Solid headphones, but the mic isn't great for calls.", "rating": 3.5}
+    ]
+  },
+  {
+    "id": "prod2",
+    "name": "UltraHD 4K Smart TV 65-inch Quantum Dot",
+    "category_id": "electronics",
+    "image_placeholder": "placeholder_tv.jpg",
+    "description": "Transform your living room into a home cinema with this stunning 65-inch 4K Smart TV, featuring Quantum Dot technology for vibrant colors.",
+    "rating": 4.8,
+    "pros": ["Incredible picture quality", "User-friendly smart features", "Sleek, modern design", "Multiple HDMI ports"],
+    "cons": ["Sound system could be improved for the price", "Remote control feels a bit cheap"],
+    "price": 799.00,
+    "affiliate_link": "#",
+    "reviews": [
+        {"user": "Cinephile_Chris", "comment": "Movies look amazing on this screen! The smart features are also very responsive.", "rating": 5},
+        {"user": "HomeTheaterNut", "comment": "Picture is great, but I had to buy a separate soundbar.", "rating": 4}
+    ]
+  },
+  {
+    "id": "prod3",
+    "name": "Classic Aviator Sunglasses - UV400 Protection",
+    "category_id": "fashion",
+    "image_placeholder": "placeholder_sunglasses.jpg",
+    "description": "Protect your eyes in style with these classic aviator sunglasses, offering UV400 protection.",
+    "rating": 4.2,
+    "pros": ["Stylish design", "Effective UV protection", "Lightweight and comfortable", "Durable frame"],
+    "cons": ["May not fit all face shapes equally well", "Lenses scratch somewhat easily"],
+    "price": 45.00,
+    "affiliate_link": "#",
+    "reviews": [
+        {"user": "FashionistaJane", "comment": "Love these shades! They go with everything.", "rating": 5},
+        {"user": "OutdoorExplorer", "comment": "Good for the price, but I've had more durable sunglasses.", "rating": 3}
+    ]
+  },
+  {
+    "id": "prod4",
+    "name": "EspressoMaster Pro Coffee Machine",
+    "category_id": "home_kitchen",
+    "image_placeholder": "placeholder_coffee_machine.jpg",
+    "description": "Start your day right with a perfect cup of coffee from the EspressoMaster Pro. Features multiple brewing options and a milk frother.",
+    "rating": 4.7,
+    "pros": ["Makes excellent espresso and cappuccino", "Easy to use and clean", "Durable build quality", "Programmable settings"],
+    "cons": ["Takes up a bit of counter space", "Can be a little noisy during operation"],
+    "price": 299.00,
+    "affiliate_link": "#",
+    "reviews": [
+        {"user": "CoffeeLover23", "comment": "Best coffee machine I've ever owned! My mornings are so much better now.", "rating": 5},
+        {"user": "BaristaBob", "comment": "Great machine for home use. The frother works surprisingly well.", "rating": 4}
+    ]
+  },
+  {
+    "id": "prod5",
+    "name": "ErgoComfort Office Chair - Lumbar Support",
+    "category_id": "home_kitchen",
+    "image_placeholder": "placeholder_office_chair.jpg",
+    "description": "Maintain good posture and comfort during long work hours with the ErgoComfort Office Chair, featuring adjustable lumbar support and breathable mesh.",
+    "rating": 4.6,
+    "pros": ["Excellent lumbar support", "Adjustable height and armrests", "Breathable material", "Smooth rolling casters"],
+    "cons": ["Assembly can be a bit tricky", "May not be suitable for very tall individuals"],
+    "price": 189.00,
+    "affiliate_link": "#",
+    "reviews": [
+        {"user": "WorkFromHomePro", "comment": "This chair saved my back! Highly recommend for anyone spending hours at a desk.", "rating": 5},
+        {"user": "GamerGuy88", "comment": "Comfortable for long gaming sessions too. Good value.", "rating": 4}
+    ]
+  }
+]
+
