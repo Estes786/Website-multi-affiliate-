@@ -1,42 +1,22 @@
 {
-  "name": "@img/sharp-libvips-linux-x64",
-  "version": "1.1.0",
-  "description": "Prebuilt libvips and dependencies for use with sharp on Linux (glibc) x64",
-  "author": "Lovell Fuller <npm@lovell.info>",
-  "homepage": "https://sharp.pixelplumbing.com",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lovell/sharp-libvips.git",
-    "directory": "npm/linux-x64"
+  "name": "my-nextjs-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
-  "license": "LGPL-3.0-or-later",
-  "funding": {
-    "url": "https://opencollective.com/libvips"
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "next": "15.3.2"
   },
-  "preferUnplugged": true,
-  "publishConfig": {
-    "access": "public"
-  },
-  "files": [
-    "lib",
-    "versions.json"
-  ],
-  "type": "commonjs",
-  "exports": {
-    "./lib": "./lib/index.js",
-    "./package": "./package.json",
-    "./versions": "./versions.json"
-  },
-  "config": {
-    "glibc": ">=2.26"
-  },
-  "os": [
-    "linux"
-  ],
-  "libc": [
-    "glibc"
-  ],
-  "cpu": [
-    "x64"
-  ]
+  "devDependencies": {
+    "typescript": "^5",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19"
+  }
 }
